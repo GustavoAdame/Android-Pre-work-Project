@@ -1,4 +1,5 @@
 # Android-Pre-work-Project
-FBU 2020 
-
-![](image.gif)
+This is for FBU 2020 
+<p align="center">
+  ![](image.gif)
+</p>
